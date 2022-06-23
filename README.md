@@ -78,7 +78,8 @@
   <img src="https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white" />
   <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" />
 </p>
-### My stats
+
+## My stats
 
 <p align="center">
    <img width="370px" src="https://github-readme-stats.vercel.app/api?username=pedroo123&custom_title=Pedro Brancalhao+Github+Stats&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=58a6fe&text_color=878787&icon_color=58a6fe&cache_seconds=1800" />
