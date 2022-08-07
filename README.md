@@ -9,7 +9,7 @@
 
 <img style="margin: 0 auto" src="https://media.giphy.com/media/PAqjdPkJLDsmBRSYUp/giphy.gif" height="200">
 
-- 👷 I’m QA Engineer at <a target="_blank" href="https://www.paranabanco.com.br//">Parana Banco</a>
+- 👷 I’m QA Engineer at <a target="_blank" href="https://www.itau.com.br//">Itau</a>
 - 👨‍🏫 I'm Currently Studying at <a target="_blank" href="https://catolicasc.org.br/">Catolica SC</a>
 - 🤓 Also, trying to get my CTFL certification
 - ✨ My personal goal, is to someday, work at Netflix
