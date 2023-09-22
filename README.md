@@ -3,13 +3,12 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/pedro-b-a2a039a4/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:pedroaugusto466@gmail.com)](mailto:pedroaugusto466@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium)](https://medium.com/@pedroaugusto466)
-<a href="https://www.instagram.com/pedrobranks/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
 
 ### Hi there! And welcome to my profile 👏
 
 - 👷 I’m QA Engineer at <a target="_blank" href="https://www.itau.com.br//">Itau</a>
 - 👨‍🏫 I'm Currently Studying at <a target="_blank" href="https://catolicasc.org.br/">Catolica SC</a>
-- 📘 Currently studying C#
+- 📘 Currently mastering C#
 - 🤓 Ask me about anything JS related
 
 
