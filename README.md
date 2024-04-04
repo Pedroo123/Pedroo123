@@ -7,8 +7,7 @@
 ### Hi there! And welcome to my profile 👏
 
 - 👷 I’m QA Engineer at <a target="_blank" href="https://www.itau.com.br//">Itau</a>
-- 👨‍🏫 I'm Currently Studying at <a target="_blank" href="https://catolicasc.org.br/">Catolica SC</a>
-- 📘 Currently mastering C#
+- 📘 Currently mastering Kubernetes
 - 🤓 Ask me about anything JS related
 
 
