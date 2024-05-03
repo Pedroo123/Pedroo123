@@ -6,7 +6,7 @@
 
 ### Hi there! And welcome to my profile 👏
 
-- 👷 I’m Senior SDET
+- 👷 I’m a Senior SDET
 - 📘 Currently mastering Kubernetes
 - 🤓 Ask me about anything JS related
 
