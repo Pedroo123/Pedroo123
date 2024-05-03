@@ -6,7 +6,7 @@
 
 ### Hi there! And welcome to my profile 👏
 
-- 👷 I’m QA Engineer at <a target="_blank" href="https://www.itau.com.br//">Itau</a>
+- 👷 I’m Senior SDET
 - 📘 Currently mastering Kubernetes
 - 🤓 Ask me about anything JS related
 
