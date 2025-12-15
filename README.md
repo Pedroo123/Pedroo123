@@ -74,10 +74,4 @@
   <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" />
 </p>
 
-## My stats
-
-<p align="center">
-  <img width="370px" src="https://github-readme-streak-stats.herokuapp.com/?user=pedroo123&background=00000000&hide_border=true&stroke=878787&ring=4c8ed9&fire=4c8ed9&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787" />
-</p>
-
 ![Visualizações](https://komarev.com/ghpvc/?username=pedroo123)
