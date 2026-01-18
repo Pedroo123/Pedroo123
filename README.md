@@ -8,23 +8,22 @@
 
 ### Hi there! And welcome to my profile 👏
 
-- 👷 Full Stack Engineer <a href="https://www.itau.com.br/">@Itau</a>
+- 👷 Senior Full Stack Engineer <a href="https://www.itau.com.br/">@Itau</a>
 - 🤓 Ask me about anything JS/TS related
+- <a href="http://pedro-portfolio-nu.vercel.app/">Check out my portfolio page</a>
 
 ---
 
-## Main Stack
-angular
+<h3 align="center"> Main Stack </h2>
 <p align="center">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/angular.svg?style=for-the-badge&logo=angular&logoColor=#0F0F11" />
-</p>
-
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  
 ---
 
-<h2 align="center">Language And Frameworks Stack </h2>
+<h3 align="center">Language And Frameworks Stack </h2>
 
 ### Databases
 <p align="center">
