@@ -10,7 +10,6 @@
 
 - 👷 Senior Full Stack Engineer && Tech Lead <a href="https://www.itau.com.br/">@Itau</a>
 - 🤓 Ask me about anything JS/TS related
-- <a href="http://pedro-portfolio-nu.vercel.app/">Check out my portfolio page</a>
 
 ---
 
